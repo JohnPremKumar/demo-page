@@ -1,5 +1,5 @@
-# codingkid
-Learning By Doing
+# restauraunt
+Restaurant Sample Page
 
 ## Installation
 
